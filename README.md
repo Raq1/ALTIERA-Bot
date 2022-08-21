@@ -1,5 +1,5 @@
-# A.L.T.I.E.R.A. Bot
-Custom Discord bot for the Cyberpunk 2077 Modding Servers
+# S.E.R.E.N.A. Bot
+Custom Discord bot for the Tomb Raider Modding Server.
 
 ## Features:
  - Leveling system for:
@@ -16,6 +16,8 @@ Custom Discord bot for the Cyberpunk 2077 Modding Servers
 
 ## To Do:
  - idk
+ - Moderation Tools
+ - Get the bot online
 
 ## Credits:
-SilverEzredes#4826 for the amazing image assets
+WillyJL#3633 for his amazing coding skills.
